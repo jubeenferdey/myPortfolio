@@ -7,7 +7,7 @@ Hello Friend! I'm Jubeen Ferdinent Roy :)<!-- laglaglaglaglaglaglaglaglaglaglagl
 My Area of Interest includes: Web Development, OpenSource Intelligence, Web Application and Mobile Application Security, Reverse Engineering and Malware Analysis. 
 <span id="k">I was an Intern,</span> in the Gurugram Police Cybercell during June 2021, under the Mentorship of Mr. <a href="https://www.rakshittandon.com/">Rakshit Tandon</a>
 <span id="k">I create <a href="https://github.com/jubeenferdey?tab=repositories"> Projects </a> ocassionally,</span> to test my skills <span id="k">and to enhance them.</span></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Here's my <a href="Resume.pdf">Resume</a>.</p>, in case if you wanna Know more about my Education. <br><br>
+<p>Here's my <a href="Resume.pdf">Resume</a>, in case if you wanna Know more about my Education.</p> <br><br>
 <p> Wanna Stay Connected? <br> <a href="https://www.linkedin.com/in/jubeenferdey/">Linkedin</a> <br> <a href="
 https://www.instagram.com/jubeenferdxy_/">Instagram</a> <br> <a href="https://twitter.com/jubeenferdey_
 ">Twitter</a>.</p>
