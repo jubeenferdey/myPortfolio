@@ -6,11 +6,11 @@ I'm an Aspiring Cybersecurity Enthusiast, who likes to explore Multiple Dimensio
 I developed a Huge interest, in the field of Cybersecurity in the age of 17 and working hard to contribute something huge to the InfoSec Community.<br>
 My Area of Interest includes: Web Development, OpenSource Intelligence, Web Application and Mobile Application Security, Reverse Engineering and Malware Analysis.<br> 
 I was an Intern, in the Gurugram Police Cybercell during June 2021, under the Mentorship of Mr.<a href="https://www.rakshittandon.com/">Rakshit Tandon</a>, thereby Analysing the Real Cyber Crime happening across the Country.<br> 
-I create <a href="https://github.com/jubeenferdey?tab=repositories"> Projects </a> ocassionally, to test my skills and to enhance them.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Here's my <a href="Resume.pdf">Resume</a>, in case if you wanna Hire/Stalk me.</p>
-<p> Wanna Stay Connected? <br> <a href="https://www.linkedin.com/in/jubeenferdey/">Linkedin</a> <br> <a href="
+I create <a href="https://github.com/jubeenferdey?tab=repositories"> Projects </a> ocassionally, to test my skills and to enhance them.<br><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+Here's my <a href="Resume.pdf">Resume</a>, in case if you wanna Hire/Stalk me.<br>
+Wanna Stay Connected? <br> <a href="https://www.linkedin.com/in/jubeenferdey/">Linkedin</a> <br> <a href="
 https://www.instagram.com/jubeenferdxy_/">Instagram</a> <br> <a href="https://twitter.com/jubeenferdey_
-">Twitter</a>.</p>
+">Twitter</a>.<br>
 Oooh, Wait.. <!-- slightdelayhere--> Feel free to reach me at<!-- longlonglongcomment --><a href="mailto:ferdeyjubeen@gmail.com"> ferdeyjubeen@gmail.com</a><br>
 <span id="h"> Developer by Day. Hacker by Night. </span><br>
 <span id="a">root@jubxxnferdxy_</span>:<span id="b">~</span><span id="c">$</span> exit</p>
