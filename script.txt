@@ -12,5 +12,5 @@ Here's my <a href="Resume.pdf">Resume</a>, if you wanna Hire/Stalk me.<br><br>
 Wanna Stay Connected? <br> # <a href="https://www.linkedin.com/in/jubeenferdey/">Linkedin</a> <br> # <a href="
 https://www.instagram.com/jubeenferdxy_/">Instagram</a> <br> # <a href="https://twitter.com/jubeenferdey_">Twitter</a><br>
 Oooh, Wait.. <!-- slightdelayhere--> Feel free to reach me at<!-- longlonglongcomment --><a href="mailto:ferdeyjubeen@gmail.com"> ferdeyjubeen@gmail.com</a><br>
-<span id="h"> Developer by Day. Hacker by Night. </span><br>
+<span id="h"> Developer by Day. Security Researcher by Night. </span><br>
 <span id="a">root@jubxxnferdxy_</span>:<span id="b">~</span><span id="c">$</span> exit</p>
